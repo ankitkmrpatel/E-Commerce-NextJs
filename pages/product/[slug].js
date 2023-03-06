@@ -1,6 +1,5 @@
 /* eslint-disable @next/next/no-img-element */
 import React, { useState } from 'react';
-import { GetServerSideProps } from 'next';
 import { AiOutlineMinus, AiOutlinePlus, AiOutlineStar, AiFillStar } from 'react-icons/ai';
 
 import { client, urlFor } from '../../lib/client';
