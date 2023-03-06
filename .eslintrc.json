@@ -1,0 +1,5 @@
+{
+  "extends": "next/core-web-vitals"
+  //"max-len": [0, 160, 2, { "ignoreUrls": true }]
+  //"max-len": [1, { "code": 100 }]
+}
