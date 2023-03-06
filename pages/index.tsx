@@ -4,7 +4,6 @@ import { Inter } from '@next/font/google';
 import { Product, HeroBanner, FooterBanner } from '../components';
 
 import { client } from '../lib/client';
-import banner from '@/sanityy-ecommerce/schemas/banner';
 
 import type { IHomePageProps } from '../interface';
 
